@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CPEG470-Todo-Project1-Mongo/static/css/main.f855e6bc.css",
-    "main.js": "/CPEG470-Todo-Project1-Mongo/static/js/main.f5a300bc.js",
+    "main.css": "/CPEG470-Todo-Project1-Mongo/static/css/main.1ac293cc.css",
+    "main.js": "/CPEG470-Todo-Project1-Mongo/static/js/main.2313fb22.js",
     "static/js/453.7b81f8b6.chunk.js": "/CPEG470-Todo-Project1-Mongo/static/js/453.7b81f8b6.chunk.js",
     "static/media/logo.svg": "/CPEG470-Todo-Project1-Mongo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/CPEG470-Todo-Project1-Mongo/index.html",
-    "main.f855e6bc.css.map": "/CPEG470-Todo-Project1-Mongo/static/css/main.f855e6bc.css.map",
-    "main.f5a300bc.js.map": "/CPEG470-Todo-Project1-Mongo/static/js/main.f5a300bc.js.map",
+    "main.1ac293cc.css.map": "/CPEG470-Todo-Project1-Mongo/static/css/main.1ac293cc.css.map",
+    "main.2313fb22.js.map": "/CPEG470-Todo-Project1-Mongo/static/js/main.2313fb22.js.map",
     "453.7b81f8b6.chunk.js.map": "/CPEG470-Todo-Project1-Mongo/static/js/453.7b81f8b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f5a300bc.js"
+    "static/css/main.1ac293cc.css",
+    "static/js/main.2313fb22.js"
   ]
 }
